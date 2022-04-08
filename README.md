@@ -3,8 +3,8 @@
 Code for several plots using seaborn. You can find here:
 - Bland-Altman Plot
 - Linear regression
-- Relative Error (Accuracy) Plot
-- Coefficient of Variation (Precision) Plot
+- Line plot
+- Bar plot
 - Bar plots with std lines
 - Bull-eyes plot
 
