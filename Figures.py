@@ -147,6 +147,7 @@ def bullseye_plot(ax, data, seg_bold=None, cmap=None, norm=None):
     to the American Heart Association (AHA) [1]_
 
     References
+    From: https://matplotlib.org/1.5.3/mpl_examples/pylab_examples/leftventricle_bulleye.py
     ----------
     .. [1] M. D. Cerqueira, N. J. Weissman, V. Dilsizian, A. K. Jacobs,
         S. Kaul, W. K. Laskey, D. J. Pennell, J. A. Rumberger, T. Ryan,
