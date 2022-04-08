@@ -1,6 +1,6 @@
 # Bunch-of-useful-plots-using-seaborn
 
-Code for several plots using seaborn. You can find here:
+Code for producing several plots using seaborn. You can find here:
 - Bland-Altman Plot
 - Linear regression
 - Line plot
