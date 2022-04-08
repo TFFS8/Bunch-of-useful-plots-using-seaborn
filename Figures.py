@@ -56,7 +56,7 @@ ax.legend()
 plt.show()
 
 #############################################################
-#Relative Error (Accuracy) Plot
+#Line Plot
 
 #sns.set(style="white")
 
@@ -76,7 +76,7 @@ plt.title("Relative Error - Proposed")
 plt.show()
 
 #############################################################
-#Coefficient of Variation (Precision) Plot
+#Bar Plot
 
 #sns.set(style="white")
 
